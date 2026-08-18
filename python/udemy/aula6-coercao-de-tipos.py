@@ -2,7 +2,7 @@
 #type convertion, typecasting, coercion
 #e o ato de converter um tipo em outro
 #tipos imutaveis e tipos  primitivos
-# str, int, float, boll(boleano)
+# str(string, texto), int(numero inteiro), float(numero com ponto ex 1.2), boll(boleano, verdadeiro "true" ou falso "false")
 
 '''
 print(1 + 1)
