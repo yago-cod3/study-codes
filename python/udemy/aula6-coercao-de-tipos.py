@@ -13,5 +13,9 @@ print('a' + 'b')
 print(int('1'), type(int('1')))
 #convertendo string em numero inteiro
 print(int('1') + 1)
+#convertendo para boolen
 print(bool(' '))
+#convertendo int em string
 print(str(11) + 'b')
+#covertendo string em float
+print(float('1') + 1)
